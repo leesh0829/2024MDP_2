@@ -45,10 +45,6 @@ public class PlayerCounter : MonoBehaviour
 
     private void Die()
     {
-        //임시 설정
-        Destroy(gameObject);
-
-
-        //씬 전환 넣기
+        SceneManager.LoadScene("Gameover");
     }
 }
