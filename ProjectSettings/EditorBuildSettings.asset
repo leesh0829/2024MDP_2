@@ -16,7 +16,7 @@ EditorBuildSettings:
     guid: e33bccc69a4bbe342b09b34be74da680
   - enabled: 1
     path: Assets/Scene_Folder/avoid game3.unity
-    guid: acbe1501e5b956043a0707fab1716d13
+    guid: a55545d9021aab44eaf17f5c55d099c5
   - enabled: 1
     path: Assets/Scene_Folder/next.unity
     guid: a3f7e8f24c8a1374eac3ddcc4677c9a7
@@ -28,8 +28,8 @@ EditorBuildSettings:
     guid: 2ad7ab18e5769d94d9cd34882b7cc203
   - enabled: 1
     path: Assets/Scene_Folder/Clear.unity
-    guid: 388c6187ccf1bb248bdd9931c8072bf3
+    guid: f0cbb9dc1b4a2ed4f8b8c94a34e5f002
   - enabled: 1
     path: Assets/Scene_Folder/infinite.unity
-    guid: a55545d9021aab44eaf17f5c55d099c5
+    guid: acbe1501e5b956043a0707fab1716d13
   m_configObjects: {}
