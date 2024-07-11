@@ -8,7 +8,7 @@ public class Timer : MonoBehaviour
     public UnityEngine.UI.Text text_Timer;
     private float time_start;
     private float time_current;
-    private float time_Max = 60f;
+    public float time_Max = 30f;
     private bool isEnded;
 
     private void Start()
@@ -42,7 +42,7 @@ public class Timer : MonoBehaviour
         text_Timer.text = $"{time_current:N2}";
         isEnded = true;
 
-        SceneManager.LoadScene("Clear");
+        SceneManager.LoadScene("next");
     }
 
 

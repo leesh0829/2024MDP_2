@@ -5,8 +5,8 @@ using UnityEngine;
 public class Knife_life : MonoBehaviour
 {
     public GameObject player;
-    private float knife_Delay = 4f;
-    public float speed = 1.8f;  // 이동 속도
+    private float knife_Delay = 6f;
+    public float speed = 2f;  // 이동 속도
 
     private Vector2 moveDirection;
     private bool hasTarget = false;
