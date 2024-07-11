@@ -12,6 +12,24 @@ EditorBuildSettings:
     path: Assets/Scene_Folder/avoid game.unity
     guid: 0b48464f6c0feb345886f5272b9ede22
   - enabled: 1
+    path: Assets/Scene_Folder/avoid game2.unity
+    guid: e33bccc69a4bbe342b09b34be74da680
+  - enabled: 1
+    path: Assets/Scene_Folder/avoid game3.unity
+    guid: acbe1501e5b956043a0707fab1716d13
+  - enabled: 1
+    path: Assets/Scene_Folder/next.unity
+    guid: a3f7e8f24c8a1374eac3ddcc4677c9a7
+  - enabled: 1
+    path: Assets/Scene_Folder/finally.unity
+    guid: 160589821b40b3d488f69b92c91de46a
+  - enabled: 1
     path: Assets/Scene_Folder/Gameover.unity
     guid: 2ad7ab18e5769d94d9cd34882b7cc203
+  - enabled: 1
+    path: Assets/Scene_Folder/Clear.unity
+    guid: 388c6187ccf1bb248bdd9931c8072bf3
+  - enabled: 1
+    path: Assets/Scene_Folder/infinite.unity
+    guid: a55545d9021aab44eaf17f5c55d099c5
   m_configObjects: {}

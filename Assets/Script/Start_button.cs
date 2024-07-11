@@ -9,4 +9,9 @@ public class Start_button : MonoBehaviour
     {
         SceneManager.LoadScene("avoid game");
     }
+
+    public void infinite()
+    {
+        SceneManager.LoadScene("infinite");
+    }
 }
